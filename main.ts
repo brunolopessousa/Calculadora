@@ -62,7 +62,7 @@ basic.forever(function () {
         . # . . .
         . # # # .
         `)
-    basic.pause(1300)
+    basic.pause(500)
     basic.showLeds(`
         . . # . .
         . # . # .
@@ -70,7 +70,7 @@ basic.forever(function () {
         . # . # .
         . # . # .
         `)
-    basic.pause(1300)
+    basic.pause(500)
     basic.showLeds(`
         . # . . .
         . # . . .
@@ -78,7 +78,7 @@ basic.forever(function () {
         . # . . .
         . # # # .
         `)
-    basic.pause(1300)
+    basic.pause(500)
     basic.showLeds(`
         . # # # .
         . # . . .
@@ -86,7 +86,7 @@ basic.forever(function () {
         . # . . .
         . # # # .
         `)
-    basic.pause(1300)
+    basic.pause(500)
     basic.showLeds(`
         . # . # .
         . # . # .
@@ -94,7 +94,7 @@ basic.forever(function () {
         . # . # .
         . # # # .
         `)
-    basic.pause(1300)
+    basic.pause(500)
     basic.showLeds(`
         . # . . .
         . # . . .
@@ -102,7 +102,7 @@ basic.forever(function () {
         . # . . .
         . # # # .
         `)
-    basic.pause(1300)
+    basic.pause(500)
     basic.showLeds(`
         . . # . .
         . # . # .
@@ -110,7 +110,7 @@ basic.forever(function () {
         . # . # .
         . # . # .
         `)
-    basic.pause(1300)
+    basic.pause(500)
     basic.showLeds(`
         . # # . .
         . # . # .
@@ -118,7 +118,7 @@ basic.forever(function () {
         . # . # .
         . # # . .
         `)
-    basic.pause(1300)
+    basic.pause(500)
     basic.showLeds(`
         . # # # .
         . # . # .
@@ -126,7 +126,7 @@ basic.forever(function () {
         . # . # .
         . # # # .
         `)
-    basic.pause(1300)
+    basic.pause(500)
     basic.showLeds(`
         . # # # .
         . # . # .
@@ -134,7 +134,7 @@ basic.forever(function () {
         . # . # .
         . # . . #
         `)
-    basic.pause(1300)
+    basic.pause(500)
     basic.showLeds(`
         . . # . .
         . # . # .
@@ -142,5 +142,5 @@ basic.forever(function () {
         . # . # .
         . # . # .
         `)
-    basic.pause(4250)
+    basic.pause(2222)
 })
